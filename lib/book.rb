@@ -22,7 +22,6 @@ class Shoe
   
   def cobble
     puts "The Shoe has been repaired"
-    :condition = "New"
   end
   
 end
