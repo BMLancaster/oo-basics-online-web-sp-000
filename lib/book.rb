@@ -11,3 +11,6 @@ class Book
   end
   
 end
+
+class Shoe
+  attr_accessor :
